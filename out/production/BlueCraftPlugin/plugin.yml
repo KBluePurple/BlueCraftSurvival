@@ -1,0 +1,7 @@
+name: BlueCraftI
+version: 0.1
+main: main.BCMain
+api-version: 1.16
+commands:
+  테스트:
+    description: ""
